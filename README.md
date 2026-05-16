@@ -30,7 +30,8 @@ Wiring Channels in Vinyl assembly
 <img width="1914" height="964" alt="image" src="https://github.com/user-attachments/assets/d72e2a13-6eed-4fb6-8ee5-ba300f52ade0" />
 
 ## Bill of Materials
- # | Name | Purpose | Qty | Total Cost (USD) | Distributor |
+
+| # | Name | Purpose | Qty | Total Cost (USD) | Distributor |
 |---|------|---------|-----|-----------------|-------------|
 | 1 | [Heat Set Inserts](https://www.aliexpress.com/item/1005006302728370.html) | Joining 3D printed parts to the ESP32 board during assembly | 1 | $1.50 | AliExpress |
 | 2 | [1.28in Round Display (w/ built-in ESP32)](https://www.aliexpress.com/item/1005012049323480.html) | Displaying the Spotify album art | 1 | $15.14 | AliExpress |
